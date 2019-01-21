@@ -18,4 +18,6 @@
 		
 	<bean  name="userFactory" 
 		class="cn.itcast.b_create.UserFactory"   ></bean>
+		
+		
 </beans>
